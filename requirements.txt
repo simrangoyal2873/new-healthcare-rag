@@ -59,10 +59,6 @@ numpy==2.2.6
 oauthlib==3.3.1
 onnxruntime==1.22.1
 openai==1.99.9
-<<<<<<< HEAD
-# opencv-python==4.12.0.88
-=======
->>>>>>> 0ee5c609fc89d3bc8e0d2369a68e7c5dba5e2341
 opencv-python-headless==4.12.0.88
 openpyxl==3.1.5
 opentelemetry-api==1.36.0
