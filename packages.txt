@@ -1,7 +1,6 @@
 
 poppler-utils
 tesseract-ocr
-sqlite3
 libsm6
 libxext6
 libxrender1

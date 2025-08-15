@@ -3,7 +3,10 @@ from sentence_transformers import SentenceTransformer
 from typing import List, Dict, Any
 import uuid
 import json
-import os
+import os__import__('pysqlite3')
+import sys
+sys.modules['sqlite3'] = sys.modules['pysqlite3']
+
 
 # --- Initialize ---
 client = chromadb.PersistentClient(path="./healthcare_db")
